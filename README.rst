@@ -32,3 +32,9 @@ Example
         return '<h1>Hello %s!</h1>' % name.title()
 
     run(host='localhost', port=8080)
+
+Demo
+----
+
+It's just for demo.
+
